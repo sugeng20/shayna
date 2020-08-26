@@ -27,7 +27,7 @@ const routes = [{
     component: Product
   },
   {
-    path: '/shopping-cart',
+    path: '/cart',
     name: 'ShoppingCart',
     component: ShoppingCart
   },
